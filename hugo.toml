@@ -1,0 +1,4 @@
+baseURL = 'https://loon-logic.github.io/'
+languageCode = 'en-us'
+title = 'Loon Logic LLC'
+theme = 'ananke'
